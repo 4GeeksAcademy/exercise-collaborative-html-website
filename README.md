@@ -35,11 +35,11 @@ Wait on your instructor to advise you how to start the project!
 This project comes with the necessary files to start working, which can be found in the following github repository:
 https://github.com/breatheco-de/exercise-collaborative-html-website
 
-a) Navigate to and fork the repository in Github
+a) Navigate to and fork the repository in Github.
 
-b) Invite your students or team members as collaborators to your forked repository (see the gif manual in it)
+b) Invite your students or team members as collaborators to your forked repository (see the gif manual in it).
 
-c) Have your students or team members clone your forked repository (not the original above)
+c) Have your students or team members clone your forked repository (not the original above).
 
 **Both students and instructors:**
 
@@ -62,3 +62,4 @@ Everyone delivers the same repo as solution.
 
 The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) is being used as template engine for building the landing page.
 
+This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
